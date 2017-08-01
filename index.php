@@ -40,6 +40,7 @@
 	<header>
 		<div class="container">
 			<h1>Tablas de multiplicar</h1>
+			<h2> proba de tablas</h2>
 		</div>
 	</header>
 
