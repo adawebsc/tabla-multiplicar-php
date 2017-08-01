@@ -31,7 +31,6 @@
 			padding: 15px;
 			text-align: center;
 			min-width: 35px;
-
 		}
 	</style>
 
